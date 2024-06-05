@@ -15,7 +15,7 @@ export class HomePage {
 
   public CalcularArea() : void{
 
-    this.resultado = "A areas é de " + (this.base*this.altura) / 2 + "cm².";
+    this.resultado =  + (this.base*this.altura) / 2 + "cm².";
 
   }
 
